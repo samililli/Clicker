@@ -3,7 +3,7 @@ import time
 import keyboard
 import sys
 
-# Seznam pozic pro klikání – přidej nebo odeber dle potřeby
+# Seznam pozic pro klikání – přidej nebo odeber, dle potřeby
 positions = [
     (500, 500),
     (500, 600),
